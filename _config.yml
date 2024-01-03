@@ -1,11 +1,11 @@
 # Site Settings
-title: Mere Blog Theme
-tagline: Mere Blog Theme
-email: your-email@domain.com
+title: public health
+tagline: tabby
+email: jeddyshiru@gmail.com
 description: >
-  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
-baseurl: "/mere-blog-theme"
-url: "https://www.csrhymes.com"
+  The blog is basically talking about effects of climate change to public health
+baseurl: "/tabby"
+url: "https://publichealth.github.io"
 permalink: pretty
 
 paginate: 6
