@@ -4,7 +4,7 @@ tagline: tabby
 email: jeddyshiru@gmail.com
 description: >
   The blog is basically talking about effects of climate change to public health
-baseurl: "/tabby"
+baseurl: ""
 url: "https://publichealth.github.io"
 permalink: pretty
 
